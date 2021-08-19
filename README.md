@@ -4,7 +4,8 @@
 ## Project
 OpenCore EFI for Acer A315-55G (Estimated to end support in Early 2023)  
 https://github.com/tkkinn/OpenCore-A315-55G  
-OpenCore UEFI Secure Boot Guide (Estimated completion in September 2021)  
+OpenCore UEFI Secure Boot Guide  
+https://tkkinn.gitbook.io/opencore-uefi/
 
 
 "Whisper" - a instant messaging software based on asymmetric encryption and decentralization (Alpha version expected to be completed in mid-2022)  
