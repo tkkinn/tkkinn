@@ -1,6 +1,5 @@
 # Profile  
 **tkkinn**  
-a Developer from Hong Kong  
 
 ## Project
 OpenCore EFI for Acer A315-55G (Estimated to end support in Early 2023)  
